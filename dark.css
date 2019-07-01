@@ -3344,7 +3344,7 @@ body > pre {
     }
 
     #threads_msgs_scroller_div .threads_caught_up_divider .divider_label {
-        background: #545454;
+        background: #000000;
         color: #a1a1a1;
     }
 
