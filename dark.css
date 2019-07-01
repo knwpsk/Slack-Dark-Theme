@@ -361,7 +361,7 @@ input[type=radio]:focus, input[type=checkbox]:focus {
 }
 
 select {
-    background: #545454;
+    background: #000000;
 }
 
 select, textarea {
