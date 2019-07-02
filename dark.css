@@ -3268,7 +3268,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
     }
 
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #a1a1a1;
+    color: #000000;
 }
 
 .light_theme ts-message {
