@@ -8726,3 +8726,7 @@ span.c-message__sender.c-message_kit__sender {
     background: #222;
   
 }
+
+.c-icon_button--light, .c-icon_button--light.c-button-unstyled, .c-icon_button--light:link {
+    color: #a1a1a1;
+}
