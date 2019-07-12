@@ -1,3 +1,17 @@
+ /* knwpsk mass changes:
+
+20190701 changed all (258) instances of 
+background: #545454;
+to 
+background: #000000;
+
+20190705 changed 67 instances of
+background: #363636
+to
+background: #222
+
+*/
+
 body {
     background: #222;
     color: #a1a1a1;
@@ -3268,7 +3282,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
     }
 
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #000000;
+    color: #000000; /* knwpsk 20190702 */
 }
 
 .light_theme ts-message {
@@ -8711,7 +8725,7 @@ a, a:link, a:visited {
 	background: #696969
 }
 span.c-message__sender.c-message_kit__sender {
-    background: #222;
+    background: #222;  
 }
 .p-threads_view__footer{
 	background: #222;
@@ -8723,10 +8737,10 @@ span.c-message__sender.c-message_kit__sender {
 	color: lightgray!important;
 }
 .p-threads_view__default_background {
-    background: #222;
-  
+    background: #222; /* knwpsk 20190708 */
 }
 
 .c-icon_button--light, .c-icon_button--light.c-button-unstyled {
-    color: #a1a1a1;
+    color: #a1a1a1; /* knwpsk 20190708 */
 }
+
