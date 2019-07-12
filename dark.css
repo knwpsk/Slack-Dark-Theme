@@ -85,7 +85,7 @@ h1, h2, h3, h4 {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #000000 !important;
+    background: #000000 !important; // knwpsk 20190701
     border-left-color: #363636 !important;
     border-right-color: #363636 !important;
     color: #222 !important;
