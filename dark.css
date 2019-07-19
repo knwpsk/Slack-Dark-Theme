@@ -8748,3 +8748,17 @@ span.c-message__sender.c-message_kit__sender {
 .c-message_attachment__author_name, .c-message_attachment__author_name.c-link--button {
 	color: #a1a1a1; /* knwpsk 20190718 */
 }
+
+.c-member_slug--link {
+    background: #3a3d3e; /* knwpsk 20190719 makes background darker under @user names  tagged in msgs */
+}
+
+.c-button--outline {  /* knwpsk 20190719 makes action buttons in messages less white, with darker text */
+    background: #7b7979;
+    color: #000; 
+}
+
+.c-button--outline-primary { /* knwpsk 20190719 makes action buttons in messages less white, with darker text */
+    background: #7b7979;
+    color: #000;
+}
