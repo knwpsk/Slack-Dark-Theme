@@ -8762,3 +8762,8 @@ span.c-message__sender.c-message_kit__sender {
     background: #7b7979;
     color: #000;
 }
+
+.c-input_select { /* knwpsk 20190719 makes action buttons in messages less white, with darker text */
+    background: #7b7979;
+    color: #000;
+}
