@@ -1926,7 +1926,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message__body .c-mrkdwn__mention, .c-message__body .c-mrkdwn__broadcast--mention {
-    color: #949494;
+    color: #fb0000; /*knwpsk 7/19/2019 to make highlighted keywords in RED text on black background */
+    background: #222; /*knwpsk 7/19/2019 to make highlighted keywords in RED text on black background */
 }
 
 .c-message__label {
